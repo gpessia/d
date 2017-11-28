@@ -1,0 +1,1 @@
+$(document).ready(function(){$(".giorno").click(function(){$(".giorno, .momento").removeClass("attivo"),$(".dieta-giorno").removeClass("visibile"),$(this).addClass("attivo");var t=$(this).attr("data-target");$("#"+t).addClass("visibile")}),$(".momento").click(function(){$(".momento").removeClass("attivo"),$(this).addClass("attivo")})});

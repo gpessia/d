@@ -1,0 +1,46 @@
+---
+# You don't need to edit this file, it's empty on purpose.
+# Edit theme's home layout instead if you wanna make some changes
+# See: https://jekyllrb.com/docs/themes/#overriding-theme-defaults
+layout: default
+---
+
+{% for giorno in site.data.dieta %}
+<div id="{{giorno.giorno}}" class="dieta-giorno">
+    <a name="{{giorno.giorno}}"></a>
+    <h1>{{giorno.giorno}}</h1>
+    {% for pasti in giorno.pasti %}
+    <div class="pasto {{pasti.pasto | slugify }}">
+        <h2>{{pasti.pasto}}</h2>
+            {% for piatti in pasti.piatti %}
+            <div class="alimento">
+                <p class="nome-portata">{{piatti.piatto}}</p>
+                <div class="correlato">
+                    {% if piatti.ricette != null %}
+                    <div class="ricette">
+                        {% for ricette in piatti.ricette %}
+                        <div class="info">Ricetta:</div>
+                        <div class="ricetta">
+                            <p>{{ricette.ricetta}}</p>
+                        </div>
+                        {% endfor %}
+                    </div>
+                    {% endif %}
+
+                    {% if piatti.alternative != null %}
+                    <div class="alternative">
+                        <div class="info">Alternative:</div>
+                        <ul class="lista-alternativa">
+                            {% for alternative in piatti.alternative %}
+                            <li class="alternativa">{{alternative.alternativa}}</li>
+                            {% endfor %}
+                        </ul>
+                    </div>
+                    {% endif %}
+                </div>
+            </div>
+            {% endfor %}
+    </div>
+    {% endfor %}
+</div>
+{% endfor %}

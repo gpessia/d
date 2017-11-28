@@ -1,0 +1,186 @@
+---
+---
+
+
+@mixin transition {
+    transition: all 200ms ease;
+  }
+$viola: #E91E63;
+body{
+  margin: 0;
+  padding-bottom: 20vh;
+  padding-top: 5vh;
+  font-family: 'Roboto', sans-serif;
+}
+
+*{
+    box-sizing: border-box;
+}
+
+h1{
+  background-color: $viola;
+  color: #fff;
+  height: 5vh;
+  line-height: 5vh;
+  font-size: 3vh;
+  position: fixed;
+  top: 0;
+  width: 100%;
+  text-align: center;
+  margin: 0;
+  padding: 0;
+  text-transform: uppercase;
+}
+
+h2{
+  background-color: lighten($viola, 10);
+  color: #fff;
+  height: 5vh;
+  line-height: 5vh;
+  font-size: 2vh;
+  width: 100%;
+  text-align: center;
+  font-weight: 100;
+  margin: 0;
+  text-transform: uppercase;
+}
+
+.voce{
+  padding: 5vw;
+}
+
+.navigazione{
+  position: fixed;
+  bottom: 0;
+  width: 100%;
+}
+
+.dieta-giorno{
+  display: none;
+  opacity: 0.1;
+  @include transition;
+  &.visibile{
+    display: block;
+    opacity:1;
+  }
+  .pasto.invisibile{
+    display: none;
+    opacity: 0;
+  }
+}
+
+.momenti{
+  display: flex;
+  width: 100%;
+  background-color: #f4f4f4;
+  border-top: 1px solid #eee;
+
+  a.momento{
+    //border: 1px solid #fff;
+    //border-bottom: none;
+    font-size: 1.8em;
+    text-decoration:none;
+    text-transform: uppercase;
+    height: 5vh;
+    width: 30vw;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin: 6px;
+    border-radius: 15px;
+    background-color: #fcc;
+    color: rgba(darken(#fcc, 30), 0.40);
+    @include transition;
+    &.spuntino{
+      width: 10vw;
+    }
+    &.attivo{
+      color: rgba(darken(#fcc, 30), 1);
+      background-color: #fff;
+    }
+  }
+}
+
+.settimana{
+  display: flex;
+  width: 100%;
+  background-color: darken($viola, 5);
+  a.giorno{
+    //border: 1px solid #fff;
+    text-decoration: none;
+    height: 10vh;
+    width: 20vw;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: $viola;
+    // box-shadow: 0px 2px 6px rgba(#000, 0.3);
+    box-shadow: 0px 8px 0px rgba(darken($viola, 30), 0.4);
+    font-weight: bold;
+    color: rgba(#fff, 0.5);;
+    font-size: 4rem;
+    margin: 15px 6px;
+    border-radius: 10px;
+    @include transition;
+    &.attivo{
+      background-color: darken($viola, 20);
+      box-shadow:inset 0 1px 1px rgba(darken($viola, 30), 0.8);
+      color: #fff;
+      text-shadow: 0 0 20px rgba(#fff, 0.8);
+    }
+  }
+}
+
+ul.lista-alternativa{
+  margin: 0;
+  padding: 0;
+  li{
+    list-style-type: none;
+    // display: inline-block;
+    margin: 5px 0;
+    padding: 10px 20px;
+    background-color: #ddd;
+    border-radius: 20px;
+    color: #666;
+  }
+}
+
+.alimento{
+  padding: 0 2vw;
+  p.nome-portata{
+    font-weight: bold;
+    font-size: 1.6rem;
+    color: #444;
+    &:before {
+        content: "+ ";
+    }
+  }
+  .correlato{
+    padding-left: 2em;
+    border-left: 10px solid #eee;
+    .info{
+      color: #ccc;
+      font-size: 0.7rem;
+      text-transform: uppercase;
+      margin: 1vh;
+    }
+    .ricette{
+      margin-bottom: 2vh;
+      .ricetta{
+        padding: 2em;
+        background-color: #f7e0eb;
+        border-radius: 16px;
+        color: #b991a9;
+      }
+    }
+  }
+}
+
+span.gr{
+  display: inline-block;
+  width: 15vw;
+  font-size: 3rem;
+  font-family: monospace;
+  border-right: 3px solid #fff;
+  margin-right: 2rem;
+}

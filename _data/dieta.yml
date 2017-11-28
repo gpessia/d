@@ -1,0 +1,625 @@
+- giorno: lunedi
+  pasti:
+  - pasto: colazione
+    piatti:
+    - piatto: LATTE PARZ.SCREMATO 200g 🥛
+      alternative:
+      - alternativa: 200 ml Yogurt
+      - alternativa: 50 ml Caffe'/Caffe' d'orzo
+    - piatto: FETTE BISC.E MARMELLATA
+      ricette:
+      - ricetta: FETTE BISCOTTATE 50 g - MARMELLATA DI FRUTTA 15g
+      alternative:
+      - alternativa: 50 g Biscotti
+      - alternativa: 50 g Torte confezionate
+      - alternativa: 50 g Fette biscottate
+      - alternativa: 50 g Croissant
+      - alternativa: 60 g Pane
+      - alternativa: 50 g Crackers
+      - alternativa: 60 g Gallette e formelle
+      - alternativa: 60 g Cereali
+      - alternativa: / g Merendine
+  - pasto: spuntino mattutino
+    piatti:
+    - piatto: PANINO CON POMODORO CONDITO 🍅
+      ricette:
+      - ricetta: PANE DI FRUMENTO 00 ORIGANO 70 g - POMODORI 70 g - OLIO EXTRA VERG.DI OLIVA (*)
+  - pasto: pranzo
+    piatti:
+    - piatto: 🐓 PETTO DI POLLO AL LIMONE
+      ricette:
+      - ricetta: PETTO DI POLLO PREZZEMOLO 160 g, SUCCO DI LIMONE 10g
+      alternative:
+      - alternativa: 160 g Vitello, manzo
+      - alternativa: 110 g Maiale
+      - alternativa: 160 g Agnello
+      - alternativa: 110 g Cavallo
+      - alternativa: 160 g Tacchino, pollo, coniglio
+      - alternativa: 110 g Fegato
+      - alternativa: 140 g Selvaggina
+      - alternativa: 110 g Bresaola, prosc. cotto, prosc. crudo
+      - alternativa: 80 g Coppa, speck e salumi in genere
+      - alternativa: 270 g Cozze, calamari, polpo, seppie
+      - alternativa: 270 g Gamberi, scampi, canocchie
+      - alternativa: 240 g Cefalo, branzino, cernia, dentice, nasello, sogliola, spigola, pesce spada
+      - alternativa: 260 g Trota
+      - alternativa: 130 g Uova
+      - alternativa: 100 g Mozzarella, caprino, crescenza, certosa, robiola, ricotta
+      - alternativa: 110 g Formaggi light
+      - alternativa: 80 g Galbanino, provolone fresco
+      - alternativa: 80 g Bel paese, caciotta, fontina, scamorza, taleggio
+      - alternativa: 60 g Emmenthal, groviera, asiago, parmigiano, grana
+      - alternativa: 160 g Tonno, carne, salmone in scatola
+      - alternativa: 240 g Legumi freschi
+      - alternativa: 80 g Legumi secchi
+    - piatto: FINOCCHI CRUDI 150g
+      alternative:
+        - alternativa: 150 g Verdure crude
+        - alternativa: 300 g Verdure cotte
+        - alternativa: 300 g Purea di verdure
+    - piatto: Pane Integrale 90 g
+    - piatto: Acqua Naturale
+  - pasto: merenda
+    piatti:
+    - piatto: BANANE 200 g
+    - piatto: SPREMUTA D'ARANCIA 200 g
+  - pasto: cena
+    piatti:
+    - piatto: UOVA STRAPAZZATE 120 g
+      alternative:
+      - alternativa: 120 g Vitello, manzo
+      - alternativa: 80 g Maiale
+      - alternativa: 120 g Agnello
+      - alternativa: 80 g Cavallo
+      - alternativa: 120 g Tacchino, pollo, coniglio
+      - alternativa: 80 g Fegato
+      - alternativa: 110 g Selvaggina
+      - alternativa: 80 g Bresaola, prosc. cotto, prosc. crudo
+      - alternativa: 60 g Coppa, speck e salumi in genere
+      - alternativa: 200 g Cozze, calamari, polpo, seppie
+      - alternativa: 200 g Gamberi, scampi, canocchie
+      - alternativa: 180 g Cefalo, branzino, cernia, dentice, nasello, sogliola, spigola, pesce spada
+      - alternativa: 190 g Trota
+      - alternativa: 120 g Uova
+      - alternativa: 70 g Mozzarella, caprino, crescenza, certosa, robiola, ricotta
+      - alternativa: 80 g Formaggi light
+      - alternativa: 60 g Galbanino, provolone fresco
+      - alternativa: 60 g Bel paese, caciotta, fontina, scamorza, taleggio
+      - alternativa: 50 g Emmenthal, groviera, asiago, parmigiano, grana
+      - alternativa: 120 g Tonno, carne, salmone in scatola
+      - alternativa: 180 g Legumi freschi
+      - alternativa: 60 g Legumi secchi
+    - piatto: Insalata mista
+      ricette:
+      - ricetta: LATTUGA 150 g - POMODORI 45 g - FINOCCHI 45 g - carote 45 g - succo di limone 10 g
+      alternative:
+      - alternativa: 150 g Verdure crude
+      - alternativa: 300 g Verdure cotte
+      - alternativa: 300 g Purea di verdure
+    - piatto: Acqua naturale
+    - piatto: Pane di Frumento 90 g
+  - pasto: spuntino serale
+    piatti:
+    - piatto: YOGURT P.S.ALLA FRUTTA 125g
+- giorno: martedi
+  pasti:
+  - pasto: colazione
+    piatti:
+    - piatto: LATTE P.S.MACCHIATO 🥛
+      alternative:
+      - alternativa: 175 ml Yogurt
+      - alternativa: 50 ml Caffe'/Caffe' d'orzo
+    - piatto: FETTE BISC.E MARMELLATA
+      ricette:
+      - ricetta: FETTE BISCOTTATE 50 g - MARMELLATA DI FRUTTA 15g
+      alternative:
+      - alternativa: 55 g Biscotti
+      - alternativa: 55 g Torte confezionate 55 g Fette biscottate
+      - alternativa: 55 g Croissant
+      - alternativa: 70 g Pane
+      - alternativa: 55 g Crackers
+      - alternativa: 70 g Gallette e formelle 70 g Cereali
+      - alternativa: / g Merendine
+  - pasto: spuntino mattutino
+    piatti:
+    - piatto: CROSTATA DI FRUTTA CONFEZ. 40g
+  - pasto: pranzo
+    piatti:
+    - piatto: 🦐 PASTA FREDDA ZUCCHINE,Gamberi
+      ricette:
+      - ricetta: PASTA ALIMENTARE 120 g - Gamberi 50 - Maggiorana - Zucchine Verdi 85 g - Olio LESSARE I GAMBERI, SGUSCIARLI E LASCIARLI RAFFREDDARE IN UNA CASSERUOLA QUINDI UNIRE LE ZUCCHINE TAGLIATE A RONDELLE UN TRITO DI MAGGIORANA E OLIO DI OLIVA.LASCIARE MACERARE PER CIRCA 10 MINUTI. LESSARE LE FARFALLE E PASSARLE SOTTO L'ACQUA CORRENTE QUINDI CONDIRLE.
+      alternative:
+      - alternativa: 120 g Pasta, riso freddi
+      - alternativa: 180 g Zuppe, creme, minestre, passati di verdura freddi
+    - piatto: FINOCCHI CRUDI 150g
+      alternative:
+        - alternativa: 150 g Verdure crude
+        - alternativa: 300 g Verdure cotte
+        - alternativa: 300 g Purea di verdure
+    - piatto: VERDURE MISTE LESSATE
+      ricette:
+        - ricetta: ZUCCHINE VERDI 95 g - CAROTE 20 g - FAGIOLINI - 50g - PATATE 50g - OLIO EXTRA VERG.DI OLIVA
+    - piatto: Acqua Naturale
+  - pasto: merenda
+    piatti:
+    - piatto: MELE 180g
+    - piatto: MANDORLE 20g
+  - pasto: cena
+    piatti:
+    - piatto: FILETTI DI MANZO AL CARPACCIO
+      alternative:
+      - alternativa: 185 g Vitello, manzo
+      - alternativa: 130 g Maiale
+      - alternativa: 185 g Agnello
+      - alternativa: 130 g Cavallo
+      - alternativa: 185 g Tacchino, pollo, coniglio
+      - alternativa: 130 g Fegato
+      - alternativa: 170 g Selvaggina
+      - alternativa: 130 g Bresaola, prosc. cotto, prosc. crudo
+      - alternativa: 90 g Coppa, speck e salumi in genere
+      - alternativa: 310 g Cozze, calamari, polpo, seppie
+      - alternativa: 310 g Gamberi, scampi, canocchie
+      - alternativa: 280 g Cefalo, branzino, cernia, dentice, nasello, sogliola, spigola, pesce spada
+      - alternativa: 300 g Trota
+      - alternativa: 150 g Uova
+      - alternativa: 110 g Mozzarella, caprino, crescenza, certosa, robiola, ricotta
+      - alternativa: 130 g Formaggi light
+      - alternativa: 90 g Galbanino, provolone fresco
+      - alternativa: 90 g Bel paese, caciotta, fontina, scamorza, taleggio
+      - alternativa: 70 g Emmenthal, groviera, asiago, parmigiano, grana
+      - alternativa: 185 g Tonno, carne, salmone in scatola
+      - alternativa: 280 g Legumi freschi
+      - alternativa: 90 g Legumi secchi
+    - piatto: Cicoria lessata 150 g
+      alternative:
+      - alternativa: 80 g Verdure crude
+      - alternativa: 150 g Verdure cotte
+      - alternativa: 150 g Purea di verdure
+    - piatto: Acqua naturale
+    - piatto: Pane di Frumento 90 g
+  - pasto: spuntino serale
+    piatti:
+    - piatto: YOGURT P.S.ALLA FRUTTA 125g
+- giorno: mercoledi
+  pasti:
+  - pasto: colazione
+    piatti:
+    - piatto: YOGURT P.S.BIANCO 125g
+      alternative:
+      - alternativa: 125 ml Latte
+      - alternativa: 50 ml Caffe'/Caffe' d'orzo
+    - piatto: CORN FLAKES 50g
+      alternative:
+      - alternativa: 40 g Biscotti
+      - alternativa: / g Torte confezionate
+      - alternativa: 40 g Fette biscottate 40 g Croissant
+      - alternativa: 50 g Pane
+      - alternativa: 40 g Crackers
+      - alternativa: 50 g Gallette e formelle 50 g Cereali
+      - alternativa: 40 g Merendine
+  - pasto: spuntino mattutino
+    piatti:
+    - piatto: Succo di frutta 125 g
+  - pasto: pranzo
+    piatti:
+    - piatto: SCALOPPINE AL ROSMARINO
+      ricette:
+      - ricetta: MANZO MAGRO 200 g AGLIO FRESCO FARINA FRUMENTO TIPO 00 20 g ROSMARINO OLIO EXTRA VERG.DI OLIVA VINO DA CUCINA (*) 20 g - Preparazione—INFARINARE LE FETTINE DI MANZO, DISPORLE IN UNA TEGLIA CON UN GOCCIO DI OLIO DI OLIVA E GLI AROMI. INFORNARE PER ALCUNI MINUTI, DOPODICHE' AGGIUNGERE UNA SPRUZZATA DI VINO BIANCO DA CUCINA E TERMINARE LA COTTURA.
+      alternative:
+      - alternativa: 200 g Vitello, manzo
+      - alternativa: 140 g Maiale
+      - alternativa: 200 g Agnello
+      - alternativa: 140 g Cavallo
+      - alternativa: 200 g Tacchino, pollo, coniglio
+      - alternativa: 140 g Fegato
+      - alternativa: 180 g Selvaggina
+      - alternativa: 140 g Bresaola, prosc. cotto, prosc. crudo
+      - alternativa: 100 g Coppa, speck e salumi in genere
+      - alternativa: 340 g Cozze, calamari, polpo, seppie
+      - alternativa: 340 g Gamberi, scampi, canocchie
+      - alternativa: 300 g Cefalo, branzino, cernia, dentice, nasello, sogliola, spigola, pesce spada
+      - alternativa: 320 g Trota
+      - alternativa: 160 g Uova
+      - alternativa: 120 g Mozzarella, caprino, crescenza, certosa, robiola, ricotta
+      - alternativa: 140 g Formaggi light
+      - alternativa: 100 g Galbanino, provolone fresco
+      - alternativa: 100 g Bel paese, caciotta, fontina, scamorza, taleggio
+      - alternativa: 80 g Emmenthal, groviera, asiago, parmigiano, grana
+      - alternativa: 200 g Tonno, carne, salmone in scatola
+      - alternativa: 300 g Legumi freschi
+      - alternativa: 100 g Legumi secchi
+    - piatto: Pere 120 g
+    - piatto: Acqua Naturale
+  - pasto: merenda
+    piatti:
+    - piatto: PESCHE 240g
+    - piatto: SPREMUTA D'ARANCIA 200g
+  - pasto: cena
+    piatti:
+    - piatto: BASTONCINI DI PESCE 125g
+      alternative:
+      - altenativa: 125 g Vitello, manzo
+      - altenativa: 90 g Maiale
+      - altenativa: 125 g Agnello
+      - altenativa: 90 g Cavallo
+      - altenativa: 125 g Tacchino, pollo, coniglio
+      - altenativa: 90 g Fegato
+      - altenativa: 110 g Selvaggina
+      - altenativa: 90 g Bresaola, prosc. cotto, prosc. crudo
+      - altenativa: 60 g Coppa, speck e salumi in genere
+      - altenativa: 210 g Cozze, calamari, polpo, seppie
+      - altenativa: 210 g Gamberi, scampi, canocchie
+      - altenativa: 190 g Cefalo, branzino, cernia, dentice, nasello, sogliola, spigola, pesce spada
+      - altenativa: 200 g Trota
+      - altenativa: 100 g Uova
+      - altenativa: 80 g Mozzarella, caprino, crescenza, certosa, robiola, ricotta
+      - altenativa: 90 g Formaggi light
+      - altenativa: 60 g Galbanino, provolone fresco
+      - altenativa: 60 g Bel paese, caciotta, fontina, scamorza, taleggio
+      - altenativa: 50 g Emmenthal, groviera, asiago, parmigiano, grana
+      - altenativa: 125 g Tonno, carne, salmone in scatola
+      - altenativa: 190 g Legumi freschi
+      - altenativa: 60 g Legumi secchi
+    - piatto: TEGLIA DI VERDURE AL FORNO
+      alternative:
+      - alternativa: 100 g Verdure crude
+      - alternativa: 200 g Verdure cotte
+      - alternativa: 200 g Purea di verdure
+    - piatto: Acqua naturale
+    - piatto: Melone 400 g
+  - pasto: spuntino serale
+    piatti:
+    - piatto: YOGURT P.S.BIANCO 125g
+- giorno: giovedi
+  pasti:
+  - pasto: colazione
+    piatti:
+    - piatto: LATTE PARZ.SCREMATO 200g 🥛
+      alternative:
+      - alternativa: 200 ml Yogurt
+      - alternativa: 50 ml Caffe'/Caffe' d'orzo
+    - piatto: BISCOTTI SECCHI 55g
+      alternative:
+      - alternativa: 55 g Biscotti
+      - alternativa: 55 g Torte confezionate
+      - alternativa: 55 g Fette biscottate
+      - alternativa: 55 g Croissant
+      - alternativa: 70 g Pane
+      - alternativa: 55 g Crackers
+      - alternativa: 70 g Gallette e formelle
+      - alternativa: 70 g Cereali
+      - alternativa: / g Merendine
+  - pasto: spuntino mattutino
+    piatti:
+    - piatto: 🍌 Banane 200 g
+  - pasto: pranzo
+    piatti:
+    - piatto: 🥣 Miestra Pasta e Ceci
+      ricette:
+      - ricetta: PASTA ALIMENTARE 80 g ceci 25 g
+      alternative:
+      - alternativa: 80 g Pasta, riso, sformati di pasta o riso
+      - alternativa: 100 g Gnocchi, ravioli e tortellini freschi
+      - alternativa: 90 g Ravioli, cannelloni e tortellini secchi
+      - alternativa: 80 g Pasta, riso integrali
+      - alternativa: 80 g Pasta di soia, farro, grano saraceno
+      - alternativa: 40 g Sformati vegetariani a base di orzo, grano ecc.
+      - alternativa: 80 g Gratin di legumi freschi
+      - alternativa: 80 g Minestre con pasta o riso
+      - alternativa: 80 g Minestre con pasta o riso integrali
+      - alternativa: 120 g Zuppe, creme, minestre, passati e vellutate di verdura
+      - alternativa: 70 g Semolino
+      - alternativa: 80 g Polenta
+    - piatto: Insalata di pomodori
+      ricette:
+      - ricetta: Pomodori 145 g
+      alternative:
+        - alternativa: 145 g Verdure crude
+        - alternativa: 290 g Verdure cotte
+        - alternativa: 290 g Purea di verdure
+    - piatto: Acqua Naturale
+  - pasto: merenda
+    piatti:
+    - piatto: Melone 215 g
+  - pasto: cena
+    piatti:
+    - piatto: 🐖 BRACIOLA DI MAIALE AI FERRI 150g
+      alternative:
+      - alternativa: 210 g Vitello, manzo
+      - alternativa: 150 g Maiale
+      - alternativa: 210 g Agnello
+      - alternativa: 150 g Cavallo
+      - alternativa: 210 g Tacchino, pollo, coniglio
+      - alternativa: 150 g Fegato
+      - alternativa: 190 g Selvaggina
+      - alternativa: 150 g Bresaola, prosc. cotto, prosc. crudo
+      - alternativa: 110 g Coppa, speck e salumi in genere 360 g Cozze, calamari, polpo, seppie
+      - alternativa: 360 g Gamberi, scampi, canocchie
+      - alternativa: 320 g Cefalo, branzino, cernia, dentice, nasello, sogliola, spigola, pesce spada
+      - alternativa: 340 g Trota
+      - alternativa: 170 g Uova
+      - alternativa: 130 g Mozzarella, caprino, crescenza, certosa, robiola, ricotta
+      - alternativa: 150 g Formaggi light
+      - alternativa: 110 g Galbanino, provolone fresco
+      - alternativa: 110 g Bel paese, caciotta, fontina, scamorza, taleggio
+      - alternativa: 80 g Emmenthal, groviera, asiago, parmigiano, grana
+      - alternativa: 210 g Tonno, carne, salmone in scatola
+      - alternativa: 320 g Legumi freschi
+      - alternativa: 110 g Legumi secchi
+    - piatto: Erbette lessate
+      ricette:
+      - ricetta: Erbette 190 g
+      alternative:
+      - alternativa: 100 g Verdure crude
+      - alternativa: 190 g Verdure cotte
+      - alternativa: 190 g Purea di verdure
+    - piatto: Acqua naturale
+    - piatto: Ananas al naturale 300 g
+      alternative:
+      - alternativa: 240 g Frutta fresca di stagione
+    - piatto: Pane di Frumento 70 g
+  - pasto: spuntino serale
+    piatti:
+    - piatto: YOGURT P.S.ALLA FRUTTA 125g
+- giorno: venerdi
+  pasti:
+  - pasto: colazione
+    piatti:
+    - piatto: LATTE PARZ.SCREMATO 200g 🥛
+      alternative:
+      - alternativa: 200 ml Yogurt
+      - alternativa: 50 ml Caffe'/Caffe' d'orzo
+    - piatto: CORN FLAKES 50g
+      alternative:
+      - alternativa: 40 g Biscotti
+      - alternativa: / g Torte confezionate
+      - alternativa: 40 g Fette biscottate 40 g Croissant
+      - alternativa: 50 g Pane
+      - alternativa: 40 g Crackers
+      - alternativa: 50 g Gallette e formelle 50 g Cereali
+      - alternativa: 40 g Merendine
+  - pasto: spuntino mattutino
+    piatti:
+    - piatto: Mele 180 g
+  - pasto: pranzo
+    piatti:
+    - piatto: 🍝 PASTA INT.POMOD.E BASILICO
+      ricette:
+      - ricetta: PASTA INT. 120 g POMOD.E BASILICO 120 g
+      alternative:
+      - alternativa: 20 g Pasta, riso, sformati di pasta o riso
+      - alternativa: 160 g Gnocchi, ravioli e tortellini freschi 130 g Ravioli, cannelloni e tortellini secchi 120 g Pasta, riso integrali
+      - alternativa: 120 g Pasta di soia, farro, grano saraceno
+      - alternativa: 60 g Sformati vegetariani a base di orzo, grano ecc.
+      - alternativa: 120 g Gratin di legumi freschi
+      - alternativa: 60 g Minestre con pasta o riso
+      - alternativa: 60 g Minestre con pasta o riso integrali
+      - alternativa: 180 g Zuppe, creme, minestre, passati e vellutate di verdura 50 g Semolino
+      - alternativa: 120 g Polenta
+    - piatto: FINOCCHI CRUDI 120g
+      alternative:
+        - alternativa: 120 g Verdure crude
+        - alternativa: 240 g Verdure cotte
+        - alternativa: 240 g Purea di verdure
+    - piatto: Acqua Naturale
+  - pasto: merenda
+    piatti:
+    - piatto: 🍫 Cioccolato al latte 20 g
+    - piatto: 🍑 Albicocche 400 g
+  - pasto: cena
+    piatti:
+    - piatto: 🦑 CALAMARI AL PREZZEMOLO 165 g
+      alternative:
+      - alternativa: 100 g Vitello, manzo
+      - alternativa: 70 g Maiale
+      - alternativa: 100 g Agnello
+      - alternativa: 70 g Cavallo
+      - alternativa: 100 g Tacchino, pollo, coniglio
+      - alternativa: 70 g Fegato
+      - alternativa: 90 g Selvaggina
+      - alternativa: 70 g Bresaola, prosc. cotto, prosc. crudo
+      - alternativa: 50 g Coppa, speck e salumi in genere
+      - alternativa: 170 g Cozze, calamari, polpo, seppie
+      - alternativa: 170 g Gamberi, scampi, canocchie
+      - alternativa: 150 g Cefalo, branzino, cernia, dentice, nasello, sogliola, spigola, pesce spada
+      - alternativa: 160 g Trota
+      - alternativa: 80 g Uova
+      - alternativa: 60 g Mozzarella, caprino, crescenza, certosa, robiola, ricotta
+      - alternativa: 70 g Formaggi light
+      - alternativa: 50 g Galbanino, provolone fresco
+      - alternativa: 50 g Bel paese, caciotta, fontina, scamorza, taleggio
+      - alternativa: 40 g Emmenthal, groviera, asiago, parmigiano, grana
+      - alternativa: 100 g Tonno, carne, salmone in scatola
+      - alternativa: 150 g Legumi freschi
+      - alternativa: 50 g Legumi secchi
+    - piatto: Carote Grattugiate
+      ricette:
+      - ricetta: Carote 130 g
+      alternative:
+      - alternativa: 130 g Verdure crude
+      - alternativa: 260 g Verdure cotte
+      - alternativa: 260 g Purea di verdure
+    - piatto: Acqua naturale
+    - piatto: 🍞 Pane integrale 90 g
+  - pasto: spuntino serale
+    piatti:
+    - piatto: YOGURT P.S.ALLA FRUTTA 125g
+- giorno: sabato
+  pasti:
+  - pasto: colazione
+    piatti:
+    - piatto: YOGURT P.S.BIANCO 125g
+      alternative:
+      - alternativa: 125 ml Latte
+      - alternativa: 50 ml Caffe'/Caffe' d'orzo
+    - piatto: FETTE BISC.E MARMELLATA
+      ricette:
+      - ricetta: FETTE BISCOTTATE 50 g - MARMELLATA DI FRUTTA 15g
+      alternative:
+      - alternativa: 55 g Biscotti
+      - alternativa: 55 g Torte confezionate 55 g Fette biscottate
+      - alternativa: 55 g Croissant
+      - alternativa: 70 g Pane
+      - alternativa: 55 g Crackers
+      - alternativa: 70 g Gallette e formelle 70 g Cereali
+      - alternativa: / g Merendine
+  - pasto: spuntino mattutino
+    piatti:
+    - piatto: 🍌 Banane 200 g
+  - pasto: pranzo
+    piatti:
+    - piatto: 🐖 MAIALE MAGRO AI FERRI 200g
+      alternative:
+      - alternativa: 290 g Vitello, manzo
+      - alternativa: 200 g Maiale
+      - alternativa: 290 g Agnello
+      - alternativa: 200 g Cavallo
+      - alternativa: 290 g Tacchino, pollo, coniglio
+      - alternativa: 200 g Fegato
+      - alternativa: 260 g Selvaggina
+      - alternativa: 200 g Bresaola, prosc. cotto, prosc. crudo
+      - alternativa: 150 g Coppa, speck e salumi in genere
+      - alternativa: 490 g Cozze, calamari, polpo, seppie
+      - alternativa: 490 g Gamberi, scampi, canocchie
+      - alternativa: 440 g Cefalo, branzino, cernia, dentice, nasello, sogliola, spigola, pesce spada
+      - alternativa: 460 g Trota
+      - alternativa: 230 g Uova
+      - alternativa: 170 g Mozzarella, caprino, crescenza, certosa, robiola, ricotta
+      - alternativa: 200 g Formaggi light
+      - alternativa: 150 g Galbanino, provolone fresco
+      - alternativa: 150 g Bel paese, caciotta, fontina, scamorza, taleggio
+      - alternativa: 120 g Emmenthal, groviera, asiago, parmigiano, grana
+      - alternativa: 290 g Tonno, carne, salmone in scatola
+      - alternativa: 440 g Legumi freschi
+      - alternativa: 150 g Legumi secchi
+    - piatto: Fagiolini in umico 285g
+      alternative:
+      - alternativa: 285 g Legumi freschi
+      - alternativa: 140 g Legumi secchi
+    - piatto: Acqua Naturale
+    - piatto: Frutta fresca di stagione 200 g
+  - pasto: merenda
+    piatti:
+    - piatto: Mele 200 g
+  - pasto: cena
+    piatti:
+    - piatto: Pizza Margherita 300 g
+    - piatto: Finocchi Crudi
+      alternative:
+      - alternativa: 80 g Verdure crude
+      - alternativa: 160 g Verdure cotte
+      - alternativa: 160 g Purea di verdure
+    - piatto: Acqua naturale
+  - pasto: spuntino serale
+    piatti:
+    - piatto: YOGURT P.S.ALLA FRUTTA 125g
+- giorno: domenica
+  pasti:
+  - pasto: colazione
+    piatti:
+    - piatto: The al limone con miele
+      alternative:
+      - alternativa: 50 ml Caffe'/Caffe' d'orzo
+    - piatto: FETTE BISC. BURRO E MARMELLATA
+      alternative:
+      - alternativa: 35 g Biscotti
+      - alternativa: / g Torte confezionate
+      - alternativa: 35 g Fette biscottate
+      - alternativa: / g Croissant
+      - alternativa: 40 g Pane
+      - alternativa: 35 g Crackers
+      - alternativa: 40 g Gallette e formelle
+      - alternativa: 40 g Cereali
+      - alternativa: 35 g Merendine
+  - pasto: spuntino mattutino
+    piatti:
+    - piatto: BARRETTE AI FRUTTI E CEREALI 30g
+  - pasto: pranzo
+    piatti:
+    - piatto: GNOCCHI AL POMODORO
+      ricette:
+      - ricetta: PGnocchi 300 g - pomodori 240 g - parmigiano 30 g
+      alternative:
+      - alternativa: 230 g Pasta, riso, sformati di pasta o riso
+      - alternativa: 300 g Gnocchi, ravioli e tortellini freschi
+      - alternativa: 250 g Ravioli, cannelloni e tortellini secchi
+      - alternativa: 230 g Pasta, riso integrali
+      - alternativa: 230 g Pasta di soia, farro, grano saraceno
+      - alternativa: 120 g Sformati vegetariani a base di orzo, grano ecc.
+      - alternativa: 230 g Gratin di legumi freschi
+      - alternativa: 120 g Minestre con pasta o riso
+      - alternativa: 120 g Minestre con pasta o riso integrali
+      - alternativa: 350 g Zuppe, creme, minestre, passati e vellutate di verdura
+      - alternativa: 90 g Semolino
+      - alternativa: 230 g Polenta
+    - piatto: SALSICCIA ALLA GRIGLIA 80g
+      alternative:
+      - alternativa: 10 g Vitello, manzo
+      - alternativa: 80 g Maiale
+      - alternativa: 110 g Agnello
+      - alternativa: 80 g Cavallo
+      - alternativa: 110 g Tacchino, pollo, coniglio
+      - alternativa: 80 g Fegato
+      - alternativa: 100 g Selvaggina
+      - alternativa: 80 g Bresaola, prosc. cotto, prosc. crudo
+      - alternativa: 60 g Coppa, speck e salumi in genere
+      - alternativa: 190 g Cozze, calamari, polpo, seppie
+      - alternativa: 190 g Gamberi, scampi, canocchie
+      - alternativa: 170 g Cefalo, branzino, cernia, dentice, nasello, sogliola, spigola, pesce spada
+      - alternativa: 180 g Trota
+      - alternativa: 90 g Uova
+      - alternativa: 70 g Mozzarella, caprino, crescenza, certosa, robiola, ricotta
+      - alternativa: 80 g Formaggi light
+      - alternativa: 60 g Galbanino, provolone fresco
+      - alternativa: 60 g Bel paese, caciotta, fontina, scamorza, taleggio
+      - alternativa: 40 g Emmenthal, groviera, asiago, parmigiano, grana
+      - alternativa: 110 g Tonno, carne, salmone in scatola
+      - alternativa: 170 g Legumi freschi
+      - alternativa: 60 g Legumi secch
+    - piatto: Insalata di radicchio verde
+      alternative:
+      - alternativa: 70 g Verdure crude
+      - alternativa: 140 g Verdure cotte
+      - alternativa: 140 g Purea di verdure
+    - piatto: Acqua Naturale
+  - pasto: merenda
+    piatti:
+    - piatto: Pere 20 g
+  - pasto: cena
+    piatti:
+    - piatto: Coscia di pollo arrosto 150 g
+      alternative:
+      - alternativa: 150 g Vitello, manzo
+      - alternativa: 110 g Maiale
+      - alternativa: 150 g Agnello
+      - alternativa: 110 g Cavallo
+      - alternativa: 150 g Tacchino, pollo, coniglio
+      - alternativa: 110 g Fegato
+      - alternativa: 140 g Selvaggina
+      - alternativa: 110 g Bresaola, prosc. cotto, prosc. crudo
+      - alternativa: 80 g Coppa, speck e salumi in genere
+      - alternativa: 260 g Cozze, calamari, polpo, seppie
+      - alternativa: 260 g Gamberi, scampi, canocchie
+      - alternativa: 230 g Cefalo, branzino, cernia, dentice, nasello, sogliola, spigola, pesce spada
+      - alternativa: 240 g Trota
+      - alternativa: 120 g Uova
+      - alternativa: 90 g Mozzarella, caprino, crescenza, certosa, robiola, ricotta
+      - alternativa: 110 g Formaggi light
+      - alternativa: 80 g Galbanino, provolone fresco
+      - alternativa: 80 g Bel paese, caciotta, fontina, scamorza, taleggio
+      - alternativa: 60 g Emmenthal, groviera, asiago, parmigiano, grana
+      - alternativa: 150 g Tonno, carne, salmone in scatola
+      - alternativa: 230 g Legumi freschi
+      - alternativa: 80 g Legumi secchi
+    - piatto: Finocchi in insalata
+      ricette:
+      - ricetta: Finocchi 200 g
+      alternative:
+      - alternativa: 200 g Verdure crude
+      - alternativa: 400 g Verdure cotte
+      - alternativa: 400 g Purea di verdure
+    - piatto: Acqua naturale
+    - piatto: Pere 200 g
+  - pasto: spuntino serale
+    piatti:
+    - piatto: YOGURT P.S.ALLA FRUTTA 125g
